@@ -19,6 +19,6 @@ ${URL_ENDPOINT}       https://amarin-pharma.com/%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B
 4. submit
     Click Button  class=btn-custom 
 5. delay 60 sec 
-    Sleep    2 minutes
+    Sleep    1 minutes
      Close Browser
 

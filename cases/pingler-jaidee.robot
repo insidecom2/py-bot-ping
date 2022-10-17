@@ -19,6 +19,6 @@ ${URL_ENDPOINT}       https://jaidee-webdesign.com
 4. submit
     Click Button  class=btn-custom 
 5. delay 60 sec 
-    Sleep    2 minutes
+    Sleep    1 minutes
     Close Browser
 
